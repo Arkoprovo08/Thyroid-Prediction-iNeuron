@@ -11,7 +11,7 @@ from imblearn.over_sampling import SMOTENC,RandomOverSampler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV
 
-df = pd.read_csv('hypothyroid.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/Arkoprovo08/iNeuron-Thyroid-Prediction/master/hypothyroid.csv')
 columns_thyroid_csv = ['age', 'sex', 'on_thyroxine', 'query_on_thyroxine',
        'on_antithyroid_medication', 'sick', 'pregnant', 'thyroid_surgery',
        'I131_treatment', 'query_hypothyroid', 'query_hyperthyroid', 'lithium',
