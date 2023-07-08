@@ -79,10 +79,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The Thyroid Prediction web app was developed by [[Arkoprovo Ghosh](https://www.linkedin.com/in/arkoprovo-ghosh-36137a206/)] and [[Pradipta Sharma](https://www.linkedin.com/in/pradipta-sharma-0293b8213/)]. The machine learning model used in the app is based on a dataset from [[source](https://archive.ics.uci.edu/dataset/102/thyroid+disease)].
+The Thyroid Prediction web app was developed by [Arkoprovo Ghosh(https://www.linkedin.com/in/arkoprovo-ghosh-36137a206/)] and [Pradipta Sharma(https://www.linkedin.com/in/pradipta-sharma-0293b8213/)]. The machine learning model used in the app is based on a dataset from [[source](https://archive.ics.uci.edu/dataset/102/thyroid+disease)].
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact [[Arkoprovo Ghosh](https://www.linkedin.com/in/arkoprovo-ghosh-36137a206/)] at [arkoprovoghosh@gmail.com].
+If you have any questions, suggestions, or feedback, please feel free to contact [Arkoprovo Ghosh(https://www.linkedin.com/in/arkoprovo-ghosh-36137a206/)] at [arkoprovoghosh@gmail.com].
 
 We hope you find this web app useful!
