@@ -171,7 +171,7 @@ if nav == "Prediction":
         user_input = [[age,sex,thm,0,ant,hel,pre,thy,rad,qhypo,qhyper,lit,gtr,0,hyp,psy,tsh,t3m,tt4,t4u,fth,0,stmw,svhc,svhd,svi,oth]]
         
         predictions = clf.predict(user_input)
-        out = 'Hi'
+        
         if predictions == 1:
           out = 'Negative'
         if predictions == 0:
@@ -182,8 +182,7 @@ if nav == "Prediction":
           out = 'Secondary Hypothyroid'
         st.success('Your Result is Ready')
         st.write("Predicted Output: ",out)
-        l.append(user_input)
-        st.write(l)
+        
 st.sidebar.markdown('''
 
 
