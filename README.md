@@ -1,6 +1,6 @@
 # Website Link
 
-The app has been deployed using streamlit 
+The app has been deployed using streamlit. 
 Paste Link in browser
 ```
 https://ineuron-thyroid-prediction-0fgmogh18mv.streamlit.app/
