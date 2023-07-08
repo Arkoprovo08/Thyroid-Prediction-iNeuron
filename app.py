@@ -182,7 +182,8 @@ if nav == "Prediction":
           out = 'Secondary Hypothyroid'
         st.success('Your Result is Ready')
         st.write("Predicted Output: ",out)
-        l.append(age,sex,thm,0,ant,hel,pre,thy,rad,qhypo,qhyper,lit,gtr,0,hyp,psy,tsh,t3m,tt4,t4u,fth,0,stmw,svhc,svhd,svi,oth)
+        l.append(user_input)
+        st.write(l)
 st.sidebar.markdown('''
 
 
