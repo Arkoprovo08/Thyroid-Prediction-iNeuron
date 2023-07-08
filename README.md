@@ -79,10 +79,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The Thyroid Prediction web app was developed by [Your Name]. The machine learning model used in the app is based on a dataset from [source or reference].
+The Thyroid Prediction web app was developed by [Arkoprovo Ghosh] and [Pradipta Sharma]. The machine learning model used in the app is based on a dataset from [[source or reference](https://archive.ics.uci.edu/dataset/102/thyroid+disease)].
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact [Your Name] at [your-email@example.com].
+If you have any questions, suggestions, or feedback, please feel free to contact [Arkoprovo Ghosh] at [arkoprovoghosh@gmail.com].
 
 We hope you find this web app useful!
