@@ -1,6 +1,9 @@
 # Website Link
 
-The app has been deployed using streamlit 'https://ineuron-thyroid-prediction-0fgmogh18mv.streamlit.app/'
+The app has been deployed using streamlit 
+```
+https://ineuron-thyroid-prediction-0fgmogh18mv.streamlit.app/
+```
 
 # Thyroid Prediction Web App
 
