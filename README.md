@@ -1,3 +1,7 @@
+# Website Link
+
+The app has been deployed using streamlit 'https://ineuron-thyroid-prediction-0fgmogh18mv.streamlit.app/'
+
 # Thyroid Prediction Web App
 
 This repository contains the code for a web application that predicts whether a person has a thyroid disorder based on certain input features. The web app is built using Streamlit, a popular Python library for building interactive web applications.
