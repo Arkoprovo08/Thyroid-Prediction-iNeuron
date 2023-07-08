@@ -83,6 +83,6 @@ The Thyroid Prediction web app was developed by [Arkoprovo Ghosh](https://www.li
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact [Arkoprovo Ghosh(https://www.linkedin.com/in/arkoprovo-ghosh-36137a206/)] at [arkoprovoghosh@gmail.com].
+If you have any questions, suggestions, or feedback, please feel free to contact [Arkoprovo Ghosh](https://www.linkedin.com/in/arkoprovo-ghosh-36137a206/) at [arkoprovoghosh@gmail.com].
 
 We hope you find this web app useful!
